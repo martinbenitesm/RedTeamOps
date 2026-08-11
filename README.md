@@ -54,7 +54,7 @@ Los laboratorios y writeups se organizan alrededor de diferentes áreas de la se
 
 Dependiendo del laboratorio, pueden utilizarse herramientas como:
 
-### 🔎 Reconocimiento & Enumeración
+## 🔎 Reconocimiento & Enumeración
 
 - Nmap
 - RustScan
@@ -66,7 +66,7 @@ Dependiendo del laboratorio, pueden utilizarse herramientas como:
 - ffuf
 - WhatWeb
 
-### 🌐 Web Pentesting
+## 🌐 Web Pentesting
 
 - Burp Suite
 - OWASP ZAP
@@ -75,7 +75,7 @@ Dependiendo del laboratorio, pueden utilizarse herramientas como:
 - Wfuzz
 - ffuf
 
-### 💥 Explotación
+## 💥 Explotación
 
 - Metasploit Framework
 - SearchSploit
@@ -83,7 +83,7 @@ Dependiendo del laboratorio, pueden utilizarse herramientas como:
 - Netcat
 - Socat
 
-### 🔐 Credenciales
+## 🔐 Credenciales
 
 - Hydra
 - Hashcat
@@ -91,14 +91,14 @@ Dependiendo del laboratorio, pueden utilizarse herramientas como:
 - CrackMapExec / NetExec
 - Mimikatz
 
-### 🐧 Linux
+## 🐧 Linux
 
 - LinPEAS
 - Linux Exploit Suggester
 - pspy
 - GTFOBins
 
-### 🪟 Windows
+## 🪟 Windows
 
 - WinPEAS
 - PowerShell
@@ -107,7 +107,7 @@ Dependiendo del laboratorio, pueden utilizarse herramientas como:
 - Rubeus
 - Seatbelt
 
-### 🏢 Active Directory
+## 🏢 Active Directory
 
 - BloodHound
 - NetExec
@@ -116,7 +116,7 @@ Dependiendo del laboratorio, pueden utilizarse herramientas como:
 - Rubeus
 - Responder
 
-### 🧠 OSINT
+## 🧠 OSINT
 
 - theHarvester
 - Maltego
