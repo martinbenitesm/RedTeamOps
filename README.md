@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=FF003C&center=true&vCenter=true&width=1000&height=80&lines=⚔️+Welcome+to+RedTeamOps+⚔️;🕷️+Adversary+Simulation+🕷️;🧪+Labs+/+Analysis+🧪;💀+Offensive+Security+Operations+💀;🧨+Exploitation+%7C+Post-Exploitation+🧨" />
 </p>
 
----
 
 # Sobre el proyecto
 
@@ -10,15 +9,14 @@
 
 Aquí se recopilan writeups realizados en plataformas de entrenamiento como:
 
-- 🧪 [TryHackMe](https://tryhackme.com/)
-- 🖥️ [Hack The Box](https://www.hackthebox.com/)
-- ⚔️ PortSwigger Web Security Academy
-- 🛡️ VulnHub
-- 🔎 Otras plataformas y laboratorios de ciberseguridad
+- TryHackMe
+- Hack The Box
+- PortSwigger Web Security Academy
+- VulnHub
+- Otras plataformas y laboratorios de ciberseguridad
 
 El objetivo es documentar de forma estructurada las metodologías utilizadas para **reconocer, enumerar, explotar y analizar vulnerabilidades en entornos controlados**.
 
----
 
 # Áreas de enfoque
 
@@ -37,18 +35,16 @@ Los laboratorios y writeups se organizan alrededor de diferentes áreas de la se
 - 🧩 **Vulnerability Research** — Análisis de vulnerabilidades y superficies de ataque.
 - 🛠️ **Tool Development** — Desarrollo de scripts y herramientas para automatizar tareas ofensivas.
 
----
 
 # Plataformas
 
 | Plataforma | Enfoque |
 |---|---|
-| 🧪 TryHackMe | Pentesting, Red Team y fundamentos de seguridad |
-| 🖥️ Hack The Box | Máquinas, Active Directory y explotación |
-| 🌐 PortSwigger | Web Application Security |
-| 🛡️ VulnHub | Máquinas vulnerables y explotación |
+| TryHackMe | Pentesting, Red Team y fundamentos de seguridad |
+| Hack The Box | Máquinas, Active Directory y explotación |
+| PortSwigger | Web Application Security |
+| VulnHub | Máquinas vulnerables y explotación |
 
----
 
 # Herramientas
 
