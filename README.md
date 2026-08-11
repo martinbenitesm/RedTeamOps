@@ -4,38 +4,122 @@
 
 ---
 
-# RedTeamOps
+# Sobre el proyecto
 
-Repositorio especializado en operaciones de Red Team, orientado a la emulación de adversarios avanzados y el desarrollo de capacidades ofensivas a través de:
+**RedTeamOps** es un repositorio personal dedicado a documentar la resolución de laboratorios, máquinas y desafíos prácticos relacionados con **seguridad ofensiva y Red Team**.
 
-- 💀 Simulación de Adversarios: Ejecución de campañas basadas en amenazas persistentes reales (TTPs).
-- 🗡️ Seguridad Ofensiva (OffSec): Evaluación crítica de perímetros y activos mediante vectores de ataque controlados.
-- 🧨 Explotación de Vulnerabilidades: Desarrollo y ejecución de exploits para comprometer la integridad del sistema.
-- 🕷️ Escalada de Privilegios: Técnicas de movimiento vertical para la obtención de permisos de administración.
-- 🔥 Post-Explotación: Persistencia, exfiltración de datos y análisis de impacto tras el compromiso inicial.
-- 🕵️‍♂️ Investigación Ofensiva: Desarrollo de nuevas técnicas, tácticas y herramientas de ataque.
+Aquí se recopilan writeups realizados en plataformas de entrenamiento como:
 
----
+- 🧪 [TryHackMe](https://tryhackme.com/)
+- 🖥️ [Hack The Box](https://www.hackthebox.com/)
+- ⚔️ PortSwigger Web Security Academy
+- 🛡️ VulnHub
+- 🔎 Otras plataformas y laboratorios de ciberseguridad
 
-## Propósito General
-
-Este repositorio constituye una plataforma centralizada de inteligencia ofensiva, diseñada para la documentación rigurosa de metodologías de Red Team, la investigación avanzada en seguridad y el perfeccionamiento de prácticas de emulación de adversarios.
+El objetivo es documentar de forma estructurada las metodologías utilizadas para **reconocer, enumerar, explotar y analizar vulnerabilidades en entornos controlados**.
 
 ---
 
-## Estructura
+# Áreas de enfoque
 
-Cada directorio integra una estructura de conocimiento orientada a la ejecución y análisis de operaciones ofensivas, compuesta por:
+Los laboratorios y writeups se organizan alrededor de diferentes áreas de la seguridad ofensiva:
 
-- Memorias de Laboratorio (Writeups): Documentación técnica de escenarios y vectores de ataque.
-- Notas de Explotación: Registro detallado de vulnerabilidades, exploits y técnicas de compromiso.
-- Metodologías de Ataque: Marcos de trabajo y procedimientos operativos estándar (SOPs).
-- Material de Investigación: Recursos especializados sobre nuevas amenazas y vectores de intrusión.
-- Análisis de Payloads: Estudio y desarrollo de artefactos maliciosos, shellcode y mecanismos de evasión.
-- Laboratorios de Seguridad Ofensiva: Entornos controlados para la validación de tácticas y técnicas.
+- 🌐 **Reconnaissance** — Identificación de hosts, servicios, dominios y superficie de ataque.
+- 🔎 **Enumeration** — Enumeración detallada de servicios, aplicaciones y recursos.
+- 🕸️ **Web Pentesting** — Identificación y explotación de vulnerabilidades en aplicaciones web.
+- 💥 **Exploitation** — Explotación de vulnerabilidades en sistemas y aplicaciones.
+- 🐚 **Post-Exploitation** — Actividades posteriores al acceso inicial en entornos de laboratorio.
+- ⬆️ **Privilege Escalation** — Escalada de privilegios en sistemas Linux y Windows.
+- 🔐 **Credential Attacks** — Análisis y pruebas de mecanismos de autenticación.
+- 🏢 **Active Directory** — Enumeración, ataques y explotación de entornos Windows/AD.
+- 📡 **Network Security** — Análisis y explotación de servicios y protocolos de red.
+- 🎯 **OSINT** — Reconocimiento y recopilación de información pública.
+- 🧩 **Vulnerability Research** — Análisis de vulnerabilidades y superficies de ataque.
+- 🛠️ **Tool Development** — Desarrollo de scripts y herramientas para automatizar tareas ofensivas.
 
 ---
 
-## Aviso de Responsabilidad y Cumplimiento Ético
+# Plataformas
 
-Todo el contenido de este repositorio está destinado exclusivamente a fines educativos y de investigación en ciberseguridad autorizada. El uso de estas metodologías solo debe llevarse a cabo bajo un marco ético y con el consentimiento explícito de las partes involucradas. El autor se deslinda de cualquier responsabilidad legal derivada del uso indebido o no autorizado de la información aquí publicada.
+| Plataforma | Enfoque |
+|---|---|
+| 🧪 TryHackMe | Pentesting, Red Team y fundamentos de seguridad |
+| 🖥️ Hack The Box | Máquinas, Active Directory y explotación |
+| 🌐 PortSwigger | Web Application Security |
+| 🛡️ VulnHub | Máquinas vulnerables y explotación |
+
+---
+
+# Herramientas
+
+Dependiendo del laboratorio, pueden utilizarse herramientas como:
+
+### 🔎 Reconocimiento & Enumeración
+
+- Nmap
+- RustScan
+- Masscan
+- Amass
+- Subfinder
+- Gobuster
+- Feroxbuster
+- ffuf
+- WhatWeb
+
+### 🌐 Web Pentesting
+
+- Burp Suite
+- OWASP ZAP
+- SQLmap
+- Nikto
+- Wfuzz
+- ffuf
+
+### 💥 Explotación
+
+- Metasploit Framework
+- SearchSploit
+- Exploit-DB
+- Netcat
+- Socat
+
+### 🔐 Credenciales
+
+- Hydra
+- Hashcat
+- John the Ripper
+- CrackMapExec / NetExec
+- Mimikatz
+
+### 🐧 Linux
+
+- LinPEAS
+- Linux Exploit Suggester
+- pspy
+- GTFOBins
+
+### 🪟 Windows
+
+- WinPEAS
+- PowerShell
+- PowerView
+- BloodHound
+- Rubeus
+- Seatbelt
+
+### 🏢 Active Directory
+
+- BloodHound
+- NetExec
+- Impacket
+- Kerbrute
+- Rubeus
+- Responder
+
+### 🧠 OSINT
+
+- theHarvester
+- Maltego
+- SpiderFoot
+- WHOIS
+- DNS Enumeration
