@@ -44,5 +44,6 @@ Los laboratorios y writeups se organizan alrededor de diferentes áreas de la se
 | Hack The Box | Máquinas, Active Directory y explotación |
 | PortSwigger | Web Application Security |
 | VulnHub | Máquinas vulnerables y explotación |
+| Personal | Laboratorios propios |
 
 > **Pentester:** Martin Alberto Benites Marin
