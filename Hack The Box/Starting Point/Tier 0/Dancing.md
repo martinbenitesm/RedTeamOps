@@ -35,35 +35,37 @@ Dancing es una máquina Windows muy fácil que introduce el protocolo Server Mes
 
 ## Tarea 04
 
-**¿Qué herramienta usamos para probar nuestra conexión al objetivo con una solicitud de eco ICMP?**
+**¿Cuál es la 'flag' o 'switch' que podemos usar con la utilidad smbclient para 'listar' los recursos compartidos SMB disponibles en Dancing?**
 
-**Respuesta:** `ping`
+**Respuesta:** `-L`
 
 ## Tarea 05
 
-**¿Cuál es el nombre de la herramienta más común para encontrar puertos abiertos en un objetivo?**
+**¿Cuántos recursos compartidos hay en Dancing?**
 
-**Respuesta:** `nmap`
+![Descripción de la imagen](./capturas/captura12.png)
+
+**Respuesta:** `4`
 
 ## Tarea 06
 
-**¿Qué servicio identificamos en el puerto 23/tcp durante nuestros escaneos?**
+**¿Cuál es el nombre del recurso compartido al que finalmente podemos acceder con una contraseña en blanco?**
 
 ![Descripción de la imagen](./capturas/captura1.png)
 
-**Respuesta:** `telnet`
+**Respuesta:** `WorkShares`
 
 ## Tarea 07
 
-**¿Qué nombre de usuario puede iniciar sesión en el objetivo a través de telnet con una contraseña en blanco?**
+**¿Cuál es el comando que podemos usar dentro del shell de SMB para descargar los archivos que encontramos?**
 
-![Descripción de la imagen](./capturas/captura2.png)
+![Descripción de la imagen](./capturas/captura13.png)
 
-**Respuesta:** `root`
+**Respuesta:** `get`
 
 
-## Envía la flag ubicada en el directorio home de root
+## Envía la flag ubicada en el recurso compartido SMB
 
-![Descripción de la imagen](./capturas/captura3.png)
+![Descripción de la imagen](./capturas/captura14.png)
 
-**Respuesta:** `b40abdfe23665f766f9c61ecba8a4c19`
+**Respuesta:** `5f61c10dffbc77a704d76016a22f1664`
