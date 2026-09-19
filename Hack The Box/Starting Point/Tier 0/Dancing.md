@@ -51,8 +51,6 @@ Dancing es una máquina Windows muy fácil que introduce el protocolo Server Mes
 
 **¿Cuál es el nombre del recurso compartido al que finalmente podemos acceder con una contraseña en blanco?**
 
-![Descripción de la imagen](./capturas/captura1.png)
-
 **Respuesta:** `WorkShares`
 
 ## Tarea 07
