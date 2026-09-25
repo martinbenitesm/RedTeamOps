@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&duration=3000&pause=1000&color=FF003C&center=true&vCenter=true&width=1000&height=80&lines=💀+Welcome+to+RedTeamOps+💀;🕷️+Adversary+Simulation+🕷️;🧪+Labs+/+Analysis+🧪;⚔️+Offensive+Security+Operations+⚔️;🧨+Exploitation+%7C+Post-Exploitation+🧨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&duration=3000&pause=1000&color=FF003C&center=true&vCenter=true&width=1000&height=80&lines=💀+Welcome+to+RedTeamOps+💀" />
 </p>
 
 
